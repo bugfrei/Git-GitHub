@@ -13,4 +13,5 @@ gh alias set Sebastian 'repo list sebastianmantsch'
 gh alias set Se 'repo list sebastianmantsch'
 gh alias set Wolf 'repo list WolfSR'
 gh alias set Wo 'repo list WolfSR'
-
+gh alias set sl 'repo list TeamSLAH'
+gh alias set slah 'repo list TeamSLAH'
